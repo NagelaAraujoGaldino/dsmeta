@@ -1,4 +1,4 @@
-import icon from '../../assets/img/notification_icon.svg'
+import icon from '../../assets/img/notification_icon.svg';
 import './styles.css'
 function NotificacaoBotao() {
     return (
@@ -8,4 +8,4 @@ function NotificacaoBotao() {
     )
 }
 
-export default NotificacaoBotao
+export default NotificacaoBotao;
