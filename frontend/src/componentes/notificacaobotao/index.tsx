@@ -1,13 +1,10 @@
-
+import icon from '../../assets/img/notification_icon.svg'
+import './styles.css'
 function NotificacaoBotao() {
     return (
-
-
-        <h1>
-            <p>Meu Componente</p>
-
-        </h1>
-
+        <div className="dsmeta-red-btn" >
+            <img src={icon} alt="Notificar" />
+        </div >
     )
 }
 
